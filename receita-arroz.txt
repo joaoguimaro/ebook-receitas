@@ -2,4 +2,3 @@ Ingredientes:
 -Arroz;
 -Sal;
 -Água;
--Alho.
